@@ -9,7 +9,7 @@ const arrOfObjects = [
   {val1: -5, val2: 3, result: -15},
   {val1: 1, val2: 1, result: 1},
   {val1: 8, val2: 2, result: 16},
-]
+];
 
 describe('test multiply fn', () => {
   it('should be 5 * 3 = 15', () => {
